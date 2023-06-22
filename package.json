@@ -1,0 +1,18 @@
+{
+  "name": "fetchrewardschallenge",
+  "version": "1.0.0",
+  "description": "Coding challenge for the backend engineer position",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon server.js",
+    "test": "jest"
+  },
+  "author": "Robert Obrochta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jest": "^29.5.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
